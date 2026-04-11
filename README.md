@@ -21,22 +21,6 @@
 
 ---
 
-## 📦 Projects
-### 🔹 AI Influencer System
-- Generate realistic AI characters (image → video)
-- Automate content creation pipeline
-
-### 🔹 VibeCRM (In Progress)
-- CRM system with AI automation
-- Payment integration (BayarCash)
-- Subscription-based SaaS model
-
-### 🔹 Automation Tools
-- Temp email system
-- API integrations for workflows
-
----
-
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
