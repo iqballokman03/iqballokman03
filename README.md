@@ -1,36 +1,22 @@
 # Hi, I'm Iqbal Lokman 👋
 
-🚀 Tech Enthusiast | AI Builder | Product-Oriented Thinker  
-💡 Passionate about building scalable systems, AI solutions & digital products
+Frontend Developer focused on building modern web experiences, scalable systems,and powered products.
+Currently working as a Full-Time Student Bachelor in IoT.
 
----
+## 🚀 What I Do
 
-## 🧠 About Me
-- 🔭 Currently working on: AI-powered applications & automation systems
-- 🌱 Learning: Advanced AI workflows, API integrations, system architecture
-- ⚡ Focus: Building real-world solutions (not just theory)
-- 🎯 Goal: Become a top-tier AI/Product Builder in Southeast Asia
+- Build responsive and scalable web applications
+- Develop AI-integrated digital products
+- Design clean and functional user experiences
+- Create automation workflows & smart systems
 
----
+## ⚙️ Tech Stack
+Laravel • PHP • JavaScript • TailwindCSS
+HTML • CSS • MySQL • REST API
 
-## 🛠️ Tech Stack
-- 💻 Languages: JavaScript, Python, HTML, CSS
-- ⚙️ Tools: Node.js, Git, Docker
-- 🤖 AI Tools: OpenAI API, Prompt Engineering, Automation workflows
-- ☁️ Others: REST APIs, Webhooks, SaaS Systems
+## 🌱 Interests
+IoT Technology • AI Products • SaaS Development • Automation Systems • UI/UX Design
 
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/iqballokman/
-- 🌐 Portfolio: (Coming Soon)
-
----
-
-## ⚡ Personal Motto
-"Build fast, learn faster, scale smarter."
+## 📫 Connect
+LinkedIn: https://www.linkedin.com/in/iqballokman/
+Portfolio: Coming Soon
