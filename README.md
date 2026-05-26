@@ -16,4 +16,4 @@ IoT Technology • AI Products • SaaS Development • Automation Systems • U
 
 ## 📫 Connect
 LinkedIn: https://www.linkedin.com/in/iqballokman/
-Portfolio: Coming Soon
+Portfolio: Coming Soon..
