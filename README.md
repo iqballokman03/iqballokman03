@@ -1,4 +1,4 @@
-# Hi, I'm Iqbal Lokman 👋
+# Hi, I'm Iqbal Lokman.. 👋
 Frontend Developer focused on building modern web experiences, scalable systems,and powered products.
 Currently working as a Full-Time Student Bachelor in IoT.
 
