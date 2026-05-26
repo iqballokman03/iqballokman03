@@ -11,8 +11,7 @@ Currently working as a Full-Time Student Bachelor in IoT.
 - Create automation workflows & smart systems
 
 ## ⚙️ Tech Stack
-Laravel • PHP • JavaScript • TailwindCSS
-HTML • CSS • MySQL • REST API
+Laravel • PHP • JavaScript • TailwindCSS • HTML • CSS • MySQL • REST API
 
 ## 🌱 Interests
 IoT Technology • AI Products • SaaS Development • Automation Systems • UI/UX Design
